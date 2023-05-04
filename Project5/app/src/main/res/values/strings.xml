@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string-array name="filter_types">
+        <item>Fecha</item>
+        <item>Tipo</item>
+        <item>Rango</item>
+         </string-array>
+</resources>
